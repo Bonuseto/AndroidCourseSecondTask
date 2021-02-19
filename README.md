@@ -1,4 +1,4 @@
-# Android Course First Task
+# Android Course Second Task
 Application created as part of Android Udacity Course (https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 This is a simple application which helping us to keep score of a football game
 
